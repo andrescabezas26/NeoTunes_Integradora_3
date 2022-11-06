@@ -27,7 +27,7 @@ public class PlayList {
         }
     } 
     /**showMatrix= This method shows the matrix of the playlist
-     * @return
+     * @return msj: String = The matrix of the playlist
      */
     public String showMatrix(){
         String msj="";
